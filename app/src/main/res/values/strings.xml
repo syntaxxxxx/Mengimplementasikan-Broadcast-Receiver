@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BroadcastReceiver</string>
+    <string name="broadcast_receiver">Broadcast Receiver</string>
+    <string name="comming_from">Comming From</string>
+    <string name="test">Test</string>
+    <string name="close">Close</string>
+    <string name="download_a_file">download a file</string>
+</resources>
